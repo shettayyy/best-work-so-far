@@ -8,3 +8,7 @@ An innovative IoT application designed to connect to a Bluetooth Low Energy (BLE
 **BMI Calculation**: Automatically calculates and records the BMI of the user.
 **User-Friendly Interface**: Intuitive design for easy tracking and monitoring of health metrics.
 **Data Storage**: Securely stores user data for future reference and analysis.
+
+## Screenshot
+
+![Log Weight](./screenshot.png)
