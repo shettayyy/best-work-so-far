@@ -9,6 +9,12 @@ An innovative IoT application designed to connect to a Bluetooth Low Energy (BLE
 **User-Friendly Interface**: Intuitive design for easy tracking and monitoring of health metrics.
 **Data Storage**: Securely stores user data for future reference and analysis.
 
+## Demo
+
+https://github.com/shettayyy/best-work-so-far/assets/8545078/c2305955-0fb1-4db3-ad6f-558e1ed1526a
+
+
+
 ## Screenshot
 
 ![Log Weight](./screenshot.png)
